@@ -1,0 +1,2 @@
+# Stable Diffusion Python AI Image Generator
+This repository contains a Python implementation of a Stable Diffusion AI Image Generator. The Stable Diffusion model is a state-of-the-art technique for generating high-quality images with attributes. This implementation provides a user-friendly interface to generate images using pre-trained models. It utilizes Stable Diffusion models to generate high-resolution images with realistic details.
